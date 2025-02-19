@@ -7,6 +7,9 @@ Here's the properly formatted **GitHub README template** with **correct Markdown
 Welcome to the **Recipes App**! This project is built using **Clean Architecture**, ensuring a **modular, scalable, and testable** codebase. It follows a **Swift Package** structure to keep concerns separate and improve maintainability.
 
 ---
+![HomeScreen](https://github.com/user-attachments/assets/b64b5a99-874a-430f-987f-c837ec28fefe)
+![DetailScreen](https://github.com/user-attachments/assets/d33e2455-d4a7-4b86-8859-043dc0020fed)
+
 
 ## 🏗 Project Overview
 
@@ -72,3 +75,5 @@ The app is divided into multiple **Swift Packages**, each handling a specific re
 🚧 **Missing App Icon** 🖼  
 
 ---
+
+
